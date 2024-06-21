@@ -1,5 +1,8 @@
 export default function Welcome(){
     return(
-      <div></div>
+      <div className="w-full h-screen bg-whatsapp-color">
+      
+      
+      </div>
     )
   }
